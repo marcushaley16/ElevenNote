@@ -43,7 +43,7 @@ namespace ElevenNote.Services
                         .Notes
                         .Where(e => e.OwnerId == _userId)
                         .Select(
-                            .e =>
+                            e =>
                                new NoteListItem
                                {
                                    NoteId = e.NoteId,
@@ -51,6 +51,7 @@ namespace ElevenNote.Services
                                    CreatedUtc = e.CreatedUtc
                                }
                         );
+
                 return query.ToArray();
             }
         }
