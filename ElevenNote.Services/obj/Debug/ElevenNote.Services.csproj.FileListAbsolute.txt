@@ -20,3 +20,11 @@ C:\DotNetProjects\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Data.pdb
 C:\DotNetProjects\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Data.dll.config
 C:\DotNetProjects\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Models.pdb
 C:\DotNetProjects\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Models.dll.config
+C:\DotNetProjects\ElevenNote\ElevenNote.Services\bin\Debug\Newtonsoft.Json.dll
+C:\DotNetProjects\ElevenNote\ElevenNote.Services\bin\Debug\System.Net.Http.Formatting.dll
+C:\DotNetProjects\ElevenNote\ElevenNote.Services\bin\Debug\System.Web.Http.dll
+C:\DotNetProjects\ElevenNote\ElevenNote.Services\bin\Debug\System.Web.Http.WebHost.dll
+C:\DotNetProjects\ElevenNote\ElevenNote.Services\bin\Debug\Newtonsoft.Json.xml
+C:\DotNetProjects\ElevenNote\ElevenNote.Services\bin\Debug\System.Net.Http.Formatting.xml
+C:\DotNetProjects\ElevenNote\ElevenNote.Services\bin\Debug\System.Web.Http.xml
+C:\DotNetProjects\ElevenNote\ElevenNote.Services\bin\Debug\System.Web.Http.WebHost.xml

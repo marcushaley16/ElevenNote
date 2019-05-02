@@ -112,3 +112,9 @@ C:\DotNetProjects\ElevenNote\ElevenNote.WebMVC\bin\Microsoft.CodeDom.Providers.D
 C:\DotNetProjects\ElevenNote\ElevenNote.WebMVC\obj\Debug\ElevenNote.WebMVC.csproj.CopyComplete
 C:\DotNetProjects\ElevenNote\ElevenNote.WebMVC\obj\Debug\ElevenNote.WebMVC.dll
 C:\DotNetProjects\ElevenNote\ElevenNote.WebMVC\obj\Debug\ElevenNote.WebMVC.pdb
+C:\DotNetProjects\ElevenNote\ElevenNote.WebMVC\bin\System.Net.Http.Formatting.dll
+C:\DotNetProjects\ElevenNote\ElevenNote.WebMVC\bin\System.Web.Http.dll
+C:\DotNetProjects\ElevenNote\ElevenNote.WebMVC\bin\System.Web.Http.WebHost.dll
+C:\DotNetProjects\ElevenNote\ElevenNote.WebMVC\bin\System.Net.Http.Formatting.xml
+C:\DotNetProjects\ElevenNote\ElevenNote.WebMVC\bin\System.Web.Http.xml
+C:\DotNetProjects\ElevenNote\ElevenNote.WebMVC\bin\System.Web.Http.WebHost.xml
