@@ -66,6 +66,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Category.cs" />
     <Compile Include="IdentityModels.cs" />
     <Compile Include="Migrations\201905011500166_InitialCreate.cs" />
     <Compile Include="Migrations\201905011500166_InitialCreate.Designer.cs">
